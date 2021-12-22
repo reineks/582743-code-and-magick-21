@@ -2,13 +2,12 @@
   "name": "code-and-magick",
   "version": "19.0.0",
   "private": true,
-  "description": "Учебный проект «Код и Магия» от HTML Academy",
+  "description": "Pet project Code and magick",
   "repository": {
-    "type": "git",
-    "url": "git@github.com:htmlacademy-javascript/582743-code-and-magick-21.git"
+    "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/htmlacademy-javascript/582743-code-and-magick-21/issues"
+    "url": "https://github.com/reineksy"
   },
   "devDependencies": {
     "eslint": "7.1.0",
@@ -20,6 +19,6 @@
     "test": "eslint js/"
   },
   "engines": {
-    "node": "8.11"
+    "node": "14.17"
   }
 }
